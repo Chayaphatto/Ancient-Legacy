@@ -10,3 +10,9 @@
 2113210377 วรินทร เจียรนัยไพศาล - 2D Map Designer
 
 2113210625 รุจี นาคเกิดพะเนา - UI Design 
+
+# Video Review : [url=https://www.youtube.com/watch?v=pj861d5LphE&ab_channel=ChayaphatThongkham]Video[/url]
+
+# Export Game : 
+
+# Project Game : 
