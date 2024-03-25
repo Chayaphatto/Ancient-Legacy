@@ -11,7 +11,7 @@
 
 2113210625 รุจี นาคเกิดพะเนา - UI Design 
 
-# Video Review : [url=https://www.youtube.com/watch?v=pj861d5LphE&ab_channel=ChayaphatThongkham]Video[/url]
+# Video Review : [Video](https://www.youtube.com/watch?v=pj861d5LphE&ab_channel=ChayaphatThongkham)
 
 # Export Game : 
 
